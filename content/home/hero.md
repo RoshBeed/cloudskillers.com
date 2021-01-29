@@ -26,6 +26,6 @@ weight = 3
 
 Welcome to Cloud Skillers
 
-Currently a under construction
+Currently under construction
 
 In the mean time, feel free to join our Discord server

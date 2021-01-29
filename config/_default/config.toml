@@ -115,7 +115,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
 
 [[deployment.targets]]
-URL = "s3://roshbeed.com?region=us-east-1"
+URL = "s3://cloudskillers.com?region=us-east-1"
 
 [[deployment.matchers]]
 pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
