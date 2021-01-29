@@ -5,13 +5,13 @@ phases:
     runtime-versions:
       python: 3.8
     commands:
-      - pwd
-      - pushd
+      - pushd $(pwd)
       - mkdir $HOME/src
       - cd $HOME/src
       - git clone https://github.com/gohugoio/hugo.git
       - cd hugo
       - go install --tags extended
+      - export PATH=$PATH:$(go list -f '{{.Target}}')
       - popd
   pre_build:
     commands:
