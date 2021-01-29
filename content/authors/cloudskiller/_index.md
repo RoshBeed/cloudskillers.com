@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to Cloud Skillers!
+bio: Welcome to Cloud Skillers! Work in progress. Come back in a few weeks.
 
 
 # Social/Academic Networking
@@ -61,3 +61,5 @@ user_groups:
 - Visitors
 ---
 Welcome to Cloud Skillers!
+
+Work in progress, come back in a few weeks
