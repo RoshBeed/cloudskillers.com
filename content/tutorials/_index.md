@@ -3,4 +3,4 @@ title: Tutorials
 type: book
 ---
 
-Welcome to Cloud Skiller tutorials!
+Welcome to Cloud Skillers tutorials!

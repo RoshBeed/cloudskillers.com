@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cloud Skiller
+title: Cloud Skillers
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CloudSkiller
+role: CloudSkillers
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to Cloud Skiller!
+bio: Welcome to Cloud Skillers!
 
 
 # Social/Academic Networking
@@ -60,4 +60,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome to Cloud Skiller!
+Welcome to Cloud Skillers!
