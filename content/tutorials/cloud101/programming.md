@@ -16,5 +16,3 @@ weight: 5
 ## Functions and modules
 ## Working with files
 ## Debugging
-## Sys Admin
-

@@ -20,7 +20,7 @@ weight: 1
 
 ## Cloud101
 
-In this part, you will learn about 
+In this section we  will learn about 
 
 * **Linux**
 * **Networking**
