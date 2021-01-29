@@ -5,12 +5,7 @@ phases:
     runtime-versions:
       python: 3.8
     commands:
-      - mkdir src
-      - cd src
-      - git clone https://github.com/gohugoio/hugo.git
-      - cd hugo
-      - go install --tags extended
-      - cd ../..
+      - snap install hugo --channel=extended
   pre_build:
     commands:
       - echo In pre_build phase..
